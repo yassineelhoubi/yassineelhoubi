@@ -1,6 +1,6 @@
 ### Hi there, I'm Yassine EL Houbi 👋
 
-## I'm a Full-Stack Developer!!
+## I'm a Full-Stack web Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -11,7 +11,7 @@
 
 
 [![facebook](http://img.shields.io/badge/-facebook-0077B5?style=flat&logo=facebook&logoColor=white)][facebook]
-[![Twitter](http://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)][mail]
+[![Email](https://img.shields.io/badge/-email-1DA1F2?style=flat&logo=email&logoColor=white)][Email]
 [![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)][instagram]
 
 
@@ -42,6 +42,6 @@
 
 
 
-[mail]:elhoubiyassine@gmail.com
+[Email]:elhoubiyassine@gmail.com
 [facebook]: https://www.facebook.com/profile.php?id=100015389802629
 [instagram]: https://www.instagram.com/yassine.lhb/?hl=fr
